@@ -1,0 +1,17 @@
+body {
+  width: 100vh;
+}
+
+h1 {
+  font-family: 'Sofia', sans-serif;
+}
+
+h2 {
+  font-family: 'Sofia', sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
+}
+
+h3 {
+  font-size: 30px;
+}
